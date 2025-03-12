@@ -28,7 +28,7 @@ Isso abrirá a interface web do projeto. Se o servidor estiver funcionando corre
 
 
 #### 📝 Observação
-Se você encontrar algum problema ou a página não carregar, consulte a seção de [Autores] e entre em contato conosco.
+Se você encontrar algum problema ou a página não carregar, consulte a seção de [Autores](#-autores) e entre em contato conosco.
 
 
 ## 🛠️ Estrutura do Projeto
