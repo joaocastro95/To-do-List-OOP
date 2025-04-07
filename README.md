@@ -5,7 +5,7 @@ O ***To do list*** é um projeto desenvolvido sobre orientação à objetos em J
 
 ## 🌐 Interface Web
 
-A página principal da calculadora apresenta uma interface simples e funcional, permitindo ao usuário realizar operações matemáticas básicas de forma intuitiva.
+A página principal apresenta uma interface simples e funcional, permitindo ao usuário realizar operações matemáticas básicas de forma intuitiva.
 
 ![Página Principal](/img/print1.png)
 
@@ -18,10 +18,15 @@ Para testar o projeto localmente, siga estas etapas:
 
    `git clone https://github.com/joaocastro95/Calculator-OPP.git`
 
-2. Após clonar o repositório, vá até a pasta clonada.
+2. Após clonar o repositório, abra o terminal e vá até a pasta clonada.
+   
+   `cd caminho/para/a/pasta/do/projeto`
 
+3. Instale as dependências.
 
-3. Abra o arquivo index.html com um navegador web.
+  `npm install`
+   
+4. Abra o arquivo index.html com um navegador web.
 
 
 Isso abrirá a interface web do projeto. Se o servidor estiver funcionando corretamente, você verá a página principal onde poderá utilizar o "To do list - OOP".
